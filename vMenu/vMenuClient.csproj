@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>vMenuClient</RootNamespace>
     <AssemblyName>vMenuClient.net</AssemblyName>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -71,6 +71,7 @@
     <Compile Include="menus\MiscSettings.cs" />
     <Compile Include="menus\OnlinePlayers.cs" />
     <Compile Include="menus\PlayerAppearance.cs" />
+    <Compile Include="menus\Recording.cs" />
     <Compile Include="menus\SavedVehicles.cs" />
     <Compile Include="menus\TimeOptions.cs" />
     <Compile Include="menus\VehicleOptions.cs" />
